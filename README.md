@@ -22,6 +22,12 @@ Onedrive Directory Index
 2、OneDrive 账号 (个人、企业版或教育版/工作或学校帐户)  
 3、OneIndex 程序
 
+## 启用curl
+1、在php安装目录中，修改php.init文件，将extension=php_curl.dll与extension_dir = "ext"打开
+2、如果不存在php.init文件，则拷贝php.ini-production改名为php.init
+3、将libeay32.dll与ssleay32.dll，以及ext文件夹下的php_curl.dll拷贝至C:\Windows\System32下
+
+
 ## 配置：
 
 <img width="658" alt="image" src="/media/files/install.gif">  
