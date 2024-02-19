@@ -120,3 +120,6 @@ php one.php upload:file up/ /test/
 ## Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/ikym/Oneindex.svg)](https://starchart.cc/ikym/Oneindex)
+
+# 后台管理
+密码：oneindex
